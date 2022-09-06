@@ -2,8 +2,8 @@
 <h2>📍 South Island, New Zealand</h2>
 <h4>Student at the University of Canterbury, 2023</h4>
 <ul>
-  <li>Major: Computer Science</li>
-  <li>Minor: Mathematics and Physics</li>
+  <li><strong>Major</strong>: Computer Science</li>
+  <li><strong>Minor</strong>: Mathematics and Physics</li>
 </ul>
 
 <h2>Passions and Hobbies</h2>
