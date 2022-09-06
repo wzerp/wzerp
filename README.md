@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzerp&theme=radical&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzerp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wzerp/wzerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
