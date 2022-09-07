@@ -23,6 +23,7 @@
 <h2>Current Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=Weather-Pi-Project&theme=github_dark)](https://github.com/wzerp/Weather-Pi-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=learning-react-js&theme=github_dark)](https://github.com/wzerp/learning-react-js)
 
 <h2>Past Projects</h2>
 
