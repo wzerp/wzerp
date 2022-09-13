@@ -18,7 +18,7 @@
 
 <h2>GitHub Stats</h2>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=wzerp&langs_count=6)](https://github.com/wzerp?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=wzerp&langs_count=8)](https://github.com/wzerp?tab=repositories)
 
 <h2>Current Projects</h2>
 
