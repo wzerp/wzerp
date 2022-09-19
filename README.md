@@ -29,3 +29,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=12DGT-Maths-Game&theme=github_dark)](https://github.com/wzerp/12DGT-Maths-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=Retribution&theme=github_dark)](https://github.com/wzerp/Retribution)
+
+<h2>Fancy Snake</h2>
+<img src="https://raw.githubusercontent.com/wzerp/wzerp/output/snake.svg" alt="Snake animation" />
