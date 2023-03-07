@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/wzern/wzern/main/banner-transparent.png)
+
 <h1><a href="https://www.wzernikow.com/" target="_blank">William Zernikow</a></h1>
 <h2>📍 South Island, New Zealand</h2>
 <h4>Student at the University of Canterbury, 2023</h4>
