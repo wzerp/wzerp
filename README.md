@@ -33,4 +33,4 @@
 [![Readme Card](https://gh-stats.wzernikow.com/api/pin?username=wzern&repo=Retribution&theme=github_dark)](https://github.com/wzern/Retribution)
 
 <h2>Fancy Snake</h2>
-<img src="https://raw.githubusercontent.com/wzern/wzern/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wzern/wzern/output/snake-dark.svg" alt="Snake animation" />
